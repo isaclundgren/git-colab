@@ -12,3 +12,23 @@ nav a{
     margin: 5%;
     color: lime;
 }
+main {
+    background: crimson;
+}
+
+main h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.section-1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.section-2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+header{
+    background-color: aquamarine;
+    font-size: 20px;
+}
