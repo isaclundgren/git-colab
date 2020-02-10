@@ -1,3 +1,49 @@
 main {
     background: crimson;
 }
+
+nav {
+    font-size: 100px;
+    text-align: center;
+    margin: 2%;
+    font-style: italic;
+    border: 3px black solid;
+    box-shadow: 6px 12px 24px black;
+
+}
+
+nav a {
+    margin: 5%;
+    color: lime;
+}
+
+main {
+    background: crimson;
+}
+
+main h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.section-1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.section-2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+header {
+    background-color: aquamarine;
+    font-size: 20px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightblue;
+    color: black;
+    text-align: center;
+}
